@@ -29,13 +29,7 @@ Me chamo Matheus Mortari, tenho 18 anos e sou São José  do Rio Preto,Interior 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="SQL Server"
-    title="SQL Server" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg"/>
+
 
 <img 
     align="left" 
