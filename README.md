@@ -102,7 +102,7 @@ Me chamo Matheus Mortari, tenho 18 anos e sou São José  do Rio Preto,Interior 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="175" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortari23&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
